@@ -1,10 +1,11 @@
 {
-  "name": "roman-numerals-converter",
+  "name": "roman-arabic",
   "version": "0.1.0",
   "description": "Converter from roman to arabic numerals and arabic to roman numerals",
   "main": "index.js",
   "author": "Natàlia <natalia.cavi@gmail.com>",
   "license": "Apache-2.0",
+  "repository": "github:socunanena/roman-arabic",
   "scripts": {
     "build": "rm -rf lib && babel src -d lib --source-maps"
   },
